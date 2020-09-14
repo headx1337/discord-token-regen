@@ -1,5 +1,3 @@
-# Discord Token Changer
-
 # How to Install?
 
 1. make sure you have discord installed
